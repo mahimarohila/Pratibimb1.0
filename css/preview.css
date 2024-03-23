@@ -173,7 +173,7 @@ h2 {
   }
   .nav {
     margin: auto;
-    top: 0px;
+/*     top: 0px; */
   }
   .nav li {
     height: 32px;
