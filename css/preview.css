@@ -152,9 +152,8 @@ h2 {
 .nav a {
   outline: none;
 }
-@media screen and (min-width: 569px) and (max-width: 990px), screen and (max-height: 380px) {
+@media screen and  (max-width: 990px), screen and (max-height: 380px) {
   #container {
-    padding-top: 35px;
     padding-bottom: 5px;
    
   }
