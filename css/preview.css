@@ -171,7 +171,7 @@ h2 {
     
   }
   .nav {
-    position:relative;
+    margin:auto;
     bottom: 0px;
   }
   .nav li {
