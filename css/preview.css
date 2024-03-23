@@ -153,7 +153,7 @@ h2 {
   outline: none;
 }
 
-@media screen and (max-width: 968px), screen  {
+@media screen and (max-width: 968px)  {
   #container {
     padding-top: 35px;
     padding-bottom: 5px;
@@ -173,7 +173,7 @@ h2 {
   }
   .nav {
     margin: auto;
-    top: 0px;
+    top: 500px;
   }
   .nav li {
     height: 32px;
