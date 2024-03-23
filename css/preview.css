@@ -154,7 +154,7 @@ h2 {
 }
 @media screen and (orientation: landscape) {
   #container {
-    padding-top: 35px;
+/*     padding-top: 35px; */
     padding-bottom: 5px;
   }
   
@@ -170,7 +170,8 @@ h2 {
   }
   .nav {
     margin: auto;
-    top: 0px;
+    position: relative;
+    top: 30px;
   }
   .nav li {
     height: 32px;
