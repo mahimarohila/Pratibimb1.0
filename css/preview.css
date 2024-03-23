@@ -152,6 +152,42 @@ h2 {
 .nav a {
   outline: none;
 }
+@media screen and (min-width: 569px) and (max-width: 990px), screen and (max-height: 380px) {
+  #container {
+    padding-top: 35px;
+    padding-bottom: 5px;
+   
+  }
+  
+  .hs1 {
+    font-family: "Jost", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: -30px;
+  }
+  .nav {
+    margin: auto;
+    top: 0px;
+  }
+  .nav li {
+    height: 32px;
+  }
+  .nav li a {
+    background-size: 50% 50%;
+    height: 32px;
+    width: 32px;
+  }
+  html {
+    -webkit-text-size-adjust: none;
+  }
+  #click_to_open {
+    display: none;
+  }
+}
 @media screen and (max-width: 568px), screen and (max-height: 380px) {
   #container {
     padding-top: 35px;
