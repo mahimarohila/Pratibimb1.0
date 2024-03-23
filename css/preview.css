@@ -165,13 +165,11 @@ h2 {
     align-items: center;
     font-size: 20px;
     color: white;
-    position: relative;
-    top: -30px;
+    
   }
   .nav {
     margin: auto;
-    position: relative;
-    top: 30px;
+    top:0px;
   }
   .nav li {
     height: 32px;
