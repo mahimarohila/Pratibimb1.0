@@ -153,7 +153,7 @@ h2 {
   outline: none;
 }
 
-@media screen and (max-width: 968px), screen and (max-height: 380px) {
+@media screen and (max-width: 968px), screen  {
   #container {
     padding-top: 35px;
     padding-bottom: 5px;
@@ -171,10 +171,10 @@ h2 {
     position: relative;
     top: -30px;
   }
-/*   .nav {
+  .nav {
     margin: auto;
-/*     top: 0px; */
-  } */
+    top: 0px;
+  }
   .nav li {
     height: 32px;
   }
